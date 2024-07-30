@@ -49,7 +49,7 @@ The application consists of two main folders: frontend and backend.
 
 ### Start watching this presentation
 
-[Ai tools for Developers](http://https://unosquare-my.sharepoint.com/:p:/p/paulo_filho/EfEZ_VzEk_5PqhFRi1fC00QB5yB-XjNoMbAVb3H8snCV1g?e=LCTpMM)
+[Ai tools for Developers](https://unosquare-my.sharepoint.com/:p:/p/paulo_filho/EfEZ_VzEk_5PqhFRi1fC00QB5yB-XjNoMbAVb3H8snCV1g?e=29PUXf)
 
 ### Open vs Code
 
